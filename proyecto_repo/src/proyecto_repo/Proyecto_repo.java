@@ -16,6 +16,7 @@ public class Proyecto_repo {
      */
     public static void main(String[] args) {
         System.out.println("prueba repositorio");
+        System.out.println("version 2");
     }
     
 }
